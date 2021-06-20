@@ -1,0 +1,21 @@
+background { brown;
+}
+p {
+  .color: brown;
+}
+body {
+  background-color: rgb(136, 95, 34);
+}
+li {
+  color: burlywood;
+}
+h3 {
+  color: burlywood;
+}
+h2 {
+  color: burlywood;
+}
+
+b {
+  color: burlywood;
+}
